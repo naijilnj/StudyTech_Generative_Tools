@@ -33,9 +33,9 @@ def main():
 
     # Define links for each button
     button_links = {
-        "Chat with Websites": "https://github.com/naijilnj/chat_with_websites",
-        "Generate Notes from YouTube Video": "https://github.com/naijilnj/generate_notes",
-        "Chat with Textbooks": "https://github.com/naijilnj/chat_with_textbooks"
+        "Chat with Websites": "https://studytechgenerativetools.streamlit.app/Chat_With_Websites/",
+        "Generate Notes from YouTube Video": "https://studytechgenerativetools.streamlit.app/Video_Summary",
+        "Chat with Textbooks": "https://studytechgenerativetools.streamlit.app/Chat_With_Textbooks"
     }
 
     # Display sections with buttons and paragraphs
