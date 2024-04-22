@@ -15,3 +15,4 @@ openai
 faiss-cpu
 altair
 tiktoken
+pysqlite3-binary
