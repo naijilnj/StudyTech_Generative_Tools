@@ -7,7 +7,7 @@ Chat with Textbooks\
 YT Video Summary Generator\
 Chat with Websites\
 Marksheet to Dashboard Converter\
-Centralized Exam Schedule Platform\
+Centralized Exam Schedule Platform
 
 Technologies used encompass Python, HTML/CSS, JavaScript, databases (MongoDB, Firebase), frameworks (Langchain), and APIs (OpenAI, Google Gemini).
 
