@@ -1,4 +1,4 @@
-# StudyTech_Generative_Tools
+# StudyTech: Productivity Tools for University Students
 
 Platform designed to enhance university students' academic experiences using generative AI tools. The platform's main goal is to provide students with intuitive tools for interacting with digital content, generating study materials and exam results analysis.
 
