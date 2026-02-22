@@ -1,5 +1,8 @@
 # StudyTech: Productivity Tools for University Students
 
+Video explanation link:\
+https://www.linkedin.com/posts/naijilaji_introducing-my-latest-project-academic-activity-7221409424974749697-ulDn?utm_source=share&utm_medium=member_android&rcm=ACoAADcyoN8BAeMIvhr-lXv1KL6nFLXc_Ucjab4
+
 Platform designed to enhance university students' academic experiences using generative AI tools. The platform's main goal is to provide students with intuitive tools for interacting with digital content, generating study materials and exam results analysis.
 
 Key Features:\
